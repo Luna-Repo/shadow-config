@@ -20,4 +20,4 @@ Users must comply with all applicable laws and regulations in their respective j
 
 Do not use this project for any unlawful purposes.
 
-This project does not provide, promote, or imply any specific usage scenarios. Users are solely responsible for how they use this project.
+This project does not provide, promote, or imply any specific usage scenarios.  Users are solely responsible for how they use this project.
