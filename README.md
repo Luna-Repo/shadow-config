@@ -43,4 +43,8 @@ Users must comply with all applicable laws and regulations in their respective j
 
 Do not use this project for any unlawful purposes.
 
-This project does not provide or promote any specific usage scenarios. Users are solely responsible for how they use this project.
+This project does not provide, promote, or imply any specific usage scenarios. Users are solely responsible for how they use this project.
+
+This repository provides configuration templates only. All values and endpoints must be provided by the user.
+
+The included rules are generic network routing examples and do not target or guarantee access to any specific services.
